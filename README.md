@@ -33,7 +33,7 @@ https://muskanmirza2004.github.io/Simon-Game/
 
 # 📷 Screenshot
 
-![Simon Game Screenshot ] (simon-game.png)
+! [Simon Game Screenshot ] (simon.png)
 
 # 👩‍💻 Author
 
